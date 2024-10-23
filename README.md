@@ -7,9 +7,9 @@ O projeto tem como principal objetivo demonstrar como criar uma aplicação simp
 ## Conceitos Estudados
 Durante a construção deste projeto, foram explorados os seguintes conceitos:
 
-- Criação de imagens Docker multi-stage: Utilizamos a técnica de multi-stage builds para separar o processo de compilação da aplicação Go e, em seguida, copiar apenas o binário resultante para uma imagem mínima (scratch).
-- Otimização de imagens Docker: Foco na redução do tamanho da imagem final utilizando a imagem scratch, que é a menor imagem base disponível no Docker.
-- Go Lang com Docker: Utilização da imagem oficial do Go Lang para compilar e gerar binários otimizados.
+- **Criação de imagens Docker multi-stage**: Utilizamos a técnica de multi-stage builds para separar o processo de compilação da aplicação Go e, em seguida, copiar apenas o binário resultante para uma imagem mínima (scratch).
+- **Otimização de imagens Docker**: Foco na redução do tamanho da imagem final utilizando a imagem scratch, que é a menor imagem base disponível no Docker.
+- **Go Lang com Docker**: Utilização da imagem oficial do Go Lang para compilar e gerar binários otimizados.
 
 ## Imagem no Docker Hub
 
