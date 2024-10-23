@@ -12,7 +12,14 @@ Durante a construção deste projeto, foram explorados os seguintes conceitos:
 - Go Lang com Docker: Utilização da imagem oficial do Go Lang para compilar e gerar binários otimizados.
 
 ## Imagem no Docker Hub
+
+### Repositório da imagem Go:
+```sh
+https://hub.docker.com/repository/docker/lucasfmartins/fullcycle-go/general
+```
+
 A imagem gerada pode ser baixada diretamente do Docker Hub e executada para ver o resultado da aplicação. 
+
 
 Para executá-la, basta rodar o seguinte comando:
 
