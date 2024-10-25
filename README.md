@@ -20,6 +20,11 @@ https://hub.docker.com/repository/docker/lucasfmartins/fullcycle-go/general
 
 A imagem gerada pode ser baixada diretamente do Docker Hub e executada para ver o resultado da aplicação. 
 
+Para baixar a imagem, faça o pull da seguinte forma:
+
+```sh
+docker pull lucasfmartins/fullcycle-go:latest
+```
 
 Para executá-la, basta rodar o seguinte comando:
 
