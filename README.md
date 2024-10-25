@@ -34,7 +34,7 @@ docker run lucasfmartins/fullcycle
 Ao executar este comando, a saída no terminal será:
 
 ```sh
-FullCycle Rocks!!
+Full Cycle Rocks
 ```
 
 ## Como construir a imagem localmente
